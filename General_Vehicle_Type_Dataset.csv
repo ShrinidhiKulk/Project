@@ -1,0 +1,101 @@
+Brand,Model,VehicleType,FuelType,EngineCC,Mileage_kmpl,Battery_kWh,Range_km,SeatingCapacity,Transmission,EmissionStandard,Price_INR
+Renault,Renault BI1,Bike,Hybrid,2318.1,13.1,,,2,Automatic,Euro 6,2487528
+Maruti,Maruti VA2,Van,CNG,1421.8,11.6,,,5,Manual,BS6,1186672
+Hyundai,Hyundai TR3,Truck,Electric,,,19.6,354.0,6,Automatic,Zero Emission,1270251
+Renault,Renault SE4,Sedan,Diesel,1640.5,11.0,,,5,Automatic,BS4,1084263
+Honda,Honda BI5,Bike,Hybrid,940.7,23.1,,,7,Manual,BS6,604253
+Toyota,Toyota SE6,Sedan,CNG,2113.7,24.6,,,4,Manual,BS6,925053
+Renault,Renault BI7,Bike,Petrol,1925.9,17.5,,,2,Manual,BS6,1841494
+Renault,Renault BU8,Bus,Diesel,1354.3,15.6,,,7,Manual,Euro 6,600416
+Bajaj,Bajaj BI9,Bike,Petrol,2228.9,19.7,,,6,Automatic,Euro 6,1877612
+Kia,Kia VA10,Van,Hybrid,928.5,18.2,,,7,Manual,BS6,2333836
+Tata,Tata SE11,Sedan,Petrol,942.8,20.0,,,3,Manual,Euro 6,872473
+Mahindra,Mahindra TR12,Truck,Electric,,,50.3,171.9,6,Automatic,Zero Emission,2473813
+Hyundai,Hyundai BU13,Bus,Electric,,,44.3,263.2,6,Manual,Zero Emission,1813432
+Bajaj,Bajaj HA14,Hatchback,Electric,,,48.6,170.5,3,Automatic,Zero Emission,1886049
+Honda,Honda VA15,Van,Petrol,1141.4,11.2,,,3,Manual,BS6,2437452
+Mahindra,Mahindra HA16,Hatchback,Diesel,1778.8,12.6,,,3,Manual,BS6,1246378
+Honda,Honda VA17,Van,Diesel,1777.9,23.6,,,5,Manual,BS6,1115048
+Mahindra,Mahindra TR18,Truck,Electric,,,48.3,491.7,5,Manual,Zero Emission,2383322
+Honda,Honda BI19,Bike,Petrol,1047.1,16.4,,,7,Automatic,BS4,1783163
+Bajaj,Bajaj SE20,Sedan,CNG,1942.9,18.6,,,3,Automatic,BS4,776402
+Tata,Tata VA21,Van,Diesel,866.7,17.5,,,4,Manual,Euro 6,2186907
+Toyota,Toyota HA22,Hatchback,Diesel,2269.8,16.7,,,7,Manual,BS4,1121556
+Hyundai,Hyundai SE23,Sedan,Electric,,,17.2,429.4,3,Automatic,Zero Emission,1887906
+Honda,Honda BU24,Bus,Electric,,,40.6,254.8,2,Automatic,Zero Emission,857825
+Renault,Renault BI25,Bike,Electric,,,78.9,478.6,3,Automatic,Zero Emission,1334129
+Honda,Honda TR26,Truck,Petrol,2105.5,11.6,,,3,Automatic,BS6,1574549
+Hyundai,Hyundai VA27,Van,CNG,1491.0,10.4,,,6,Manual,Euro 6,1368006
+Bajaj,Bajaj BI28,Bike,Electric,,,24.9,386.8,3,Manual,Zero Emission,2065519
+Mahindra,Mahindra TR29,Truck,Hybrid,2884.7,20.1,,,7,Manual,BS4,690009
+Bajaj,Bajaj SU30,SUV,Electric,,,32.8,466.3,7,Automatic,Zero Emission,2252578
+Bajaj,Bajaj SE31,Sedan,Hybrid,1442.5,16.7,,,3,Automatic,BS4,644648
+Honda,Honda VA32,Van,CNG,1903.7,19.4,,,3,Manual,BS6,1413921
+Bajaj,Bajaj BI33,Bike,Diesel,2887.2,19.4,,,7,Automatic,BS4,1488531
+Hyundai,Hyundai SU34,SUV,CNG,1325.0,14.0,,,4,Manual,Euro 6,1399281
+Tata,Tata TR35,Truck,Electric,,,34.1,471.9,5,Manual,Zero Emission,2154691
+Toyota,Toyota BI36,Bike,Hybrid,2907.8,17.9,,,3,Automatic,Euro 6,2073616
+Renault,Renault SU37,SUV,Hybrid,2880.7,15.0,,,6,Manual,BS6,595610
+Toyota,Toyota HA38,Hatchback,Petrol,1952.9,17.5,,,3,Automatic,Euro 6,1738539
+Hyundai,Hyundai SU39,SUV,Electric,,,34.7,435.7,3,Automatic,Zero Emission,2214272
+Honda,Honda BI40,Bike,CNG,2024.8,12.6,,,4,Automatic,BS6,2220087
+Bajaj,Bajaj SE41,Sedan,Electric,,,16.1,445.8,3,Automatic,Zero Emission,1111178
+Hyundai,Hyundai HA42,Hatchback,Electric,,,57.4,151.4,2,Automatic,Zero Emission,2094819
+Maruti,Maruti BI43,Bike,Diesel,2861.1,12.1,,,5,Automatic,BS4,555958
+Tata,Tata SU44,SUV,Petrol,1082.0,15.4,,,4,Automatic,BS4,2152816
+Honda,Honda BI45,Bike,Electric,,,52.0,244.6,5,Automatic,Zero Emission,925321
+Hyundai,Hyundai SE46,Sedan,Electric,,,68.9,400.6,4,Manual,Zero Emission,2464103
+Maruti,Maruti BI47,Bike,Diesel,1482.6,16.8,,,3,Automatic,BS6,2141686
+Mahindra,Mahindra HA48,Hatchback,Hybrid,860.3,16.5,,,7,Automatic,Euro 6,1234621
+Hyundai,Hyundai SU49,SUV,Electric,,,79.6,188.5,5,Automatic,Zero Emission,579919
+Maruti,Maruti BU50,Bus,Electric,,,52.9,426.4,4,Automatic,Zero Emission,546874
+Tata,Tata SE51,Sedan,Petrol,2747.0,21.5,,,4,Manual,BS4,2173184
+Kia,Kia HA52,Hatchback,Petrol,836.3,24.3,,,2,Manual,BS4,2095474
+Maruti,Maruti VA53,Van,Petrol,1847.4,16.0,,,5,Manual,Euro 6,1935931
+Toyota,Toyota BI54,Bike,Petrol,1865.6,14.0,,,2,Manual,BS6,761422
+Honda,Honda TR55,Truck,Petrol,2677.7,16.7,,,4,Manual,BS6,899596
+Maruti,Maruti HA56,Hatchback,Petrol,2922.3,18.0,,,3,Automatic,BS6,2270644
+Mahindra,Mahindra HA57,Hatchback,Hybrid,2174.3,20.4,,,5,Manual,BS6,1936954
+Bajaj,Bajaj SE58,Sedan,Electric,,,28.0,422.2,7,Automatic,Zero Emission,2023174
+Tata,Tata SE59,Sedan,Electric,,,49.6,308.0,7,Manual,Zero Emission,1475344
+Hyundai,Hyundai SU60,SUV,Diesel,2250.6,23.9,,,6,Automatic,BS6,2046616
+Honda,Honda VA61,Van,CNG,2193.3,11.9,,,5,Automatic,BS6,2169784
+Mahindra,Mahindra TR62,Truck,Electric,,,44.9,171.0,7,Automatic,Zero Emission,1806608
+Tata,Tata BU63,Bus,Diesel,1917.4,19.3,,,6,Manual,Euro 6,647559
+Mahindra,Mahindra BI64,Bike,Hybrid,2074.3,19.9,,,2,Manual,Euro 6,2099487
+Kia,Kia VA65,Van,Diesel,1581.0,22.4,,,2,Manual,Euro 6,2470718
+Mahindra,Mahindra SE66,Sedan,Petrol,1526.3,15.5,,,3,Manual,BS4,2100805
+Tata,Tata TR67,Truck,Petrol,2502.0,22.7,,,7,Manual,BS4,1925688
+Hyundai,Hyundai BU68,Bus,Hybrid,1709.1,11.6,,,4,Automatic,BS4,1045313
+Honda,Honda SU69,SUV,Diesel,2552.0,10.5,,,6,Manual,BS6,1458657
+Hyundai,Hyundai BU70,Bus,Diesel,2078.3,22.8,,,5,Manual,BS6,1455182
+Renault,Renault SE71,Sedan,CNG,1693.0,23.8,,,6,Manual,BS4,771759
+Hyundai,Hyundai BI72,Bike,Hybrid,1091.0,10.4,,,4,Automatic,Euro 6,1140797
+Kia,Kia SU73,SUV,Hybrid,2733.5,19.1,,,7,Automatic,BS4,2107159
+Tata,Tata BU74,Bus,Electric,,,52.3,244.9,4,Automatic,Zero Emission,1201339
+Renault,Renault VA75,Van,Petrol,1861.5,17.2,,,7,Manual,Euro 6,561758
+Toyota,Toyota BU76,Bus,Electric,,,45.9,494.3,7,Automatic,Zero Emission,1428562
+Bajaj,Bajaj VA77,Van,CNG,1472.5,20.5,,,5,Manual,BS4,1761427
+Honda,Honda BI78,Bike,Electric,,,34.6,473.1,4,Automatic,Zero Emission,2321475
+Toyota,Toyota SU79,SUV,CNG,2884.2,15.0,,,7,Automatic,Euro 6,1286166
+Tata,Tata BU80,Bus,Diesel,2554.0,13.2,,,3,Automatic,Euro 6,746226
+Hyundai,Hyundai SU81,SUV,Hybrid,2288.4,11.8,,,7,Automatic,BS4,1421633
+Renault,Renault VA82,Van,Petrol,1546.0,17.5,,,3,Manual,BS6,2456013
+Kia,Kia TR83,Truck,Electric,,,20.6,286.2,7,Manual,Zero Emission,2403628
+Toyota,Toyota SE84,Sedan,Hybrid,2597.7,23.4,,,3,Automatic,BS6,682747
+Honda,Honda HA85,Hatchback,CNG,1186.4,20.8,,,2,Manual,BS4,765654
+Kia,Kia BU86,Bus,Electric,,,42.0,168.1,6,Manual,Zero Emission,2458269
+Honda,Honda TR87,Truck,CNG,907.1,16.0,,,3,Manual,BS4,1500150
+Maruti,Maruti TR88,Truck,CNG,2391.8,24.8,,,2,Automatic,BS4,1103593
+Renault,Renault HA89,Hatchback,CNG,980.0,14.6,,,2,Automatic,Euro 6,1349692
+Honda,Honda BU90,Bus,Electric,,,69.2,465.8,3,Automatic,Zero Emission,963730
+Hyundai,Hyundai SE91,Sedan,Hybrid,2834.9,14.9,,,3,Manual,BS6,1271970
+Bajaj,Bajaj VA92,Van,CNG,1762.4,16.2,,,7,Manual,Euro 6,1086149
+Bajaj,Bajaj BI93,Bike,Electric,,,38.6,150.0,4,Automatic,Zero Emission,2033516
+Mahindra,Mahindra BU94,Bus,Hybrid,2916.3,23.9,,,7,Automatic,BS6,1277575
+Maruti,Maruti BI95,Bike,Petrol,2627.0,16.8,,,4,Manual,BS6,793934
+Honda,Honda SE96,Sedan,CNG,2515.4,22.3,,,7,Manual,BS4,830823
+Tata,Tata SU97,SUV,Electric,,,63.4,283.6,5,Manual,Zero Emission,577018
+Toyota,Toyota SE98,Sedan,CNG,1086.7,18.0,,,6,Automatic,Euro 6,1868344
+Honda,Honda VA99,Van,Petrol,2818.8,11.3,,,2,Manual,BS6,1758165
+Tata,Tata SU100,SUV,Petrol,1589.7,12.3,,,7,Manual,Euro 6,900561

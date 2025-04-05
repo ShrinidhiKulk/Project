@@ -1,0 +1,101 @@
+BodyStyle,Segment,Seats,AccelSec,TopSpeed_KmH,Range_Km,Battery_Pack Kwh,Efficiency_WhKm,FastCharge_KmH,RapidCharge,PowerTrain,PlugType,PriceEuro,INR,Brand,Model
+Bike,Delivery,1,7.19,77.16,102.96,3.82,44.02,67.24,Yes,RWD,Type 1,1338.29,122216.57,Ola Electric,S1 Air V1
+Hatchback,Urban,5,8.42,127.78,221.8,19.95,87.05,164.72,Yes,FWD,Type 2 CCS,9490.12,848374.02,Ather,450X V1
+Van,Logistics,2,11.32,90.42,265.28,37.14,138.34,186.73,Yes,FWD,Type 2 CCS,18314.08,1532765.9,Bajaj,Chetak V1
+Scooter,Two-Wheeler,2,6.22,86.3,97.99,3.14,33.44,52.69,No,RWD,Type 1,1170.91,101259.02,TVS,iQube V1
+Hatchback,Urban,5,8.12,126.55,219.96,19.81,81.02,166.08,Yes,FWD,Type 2 CCS,10244.51,857189.14,Hero Electric,Photon V1
+Hatchback,Urban,5,8.59,135.23,225.88,19.7,81.07,158.96,Yes,FWD,Type 2 CCS,9759.36,896746.83,Tata,Tiago EV V1
+Van,Logistics,2,11.14,95.43,268.39,38.51,147.29,184.55,Yes,FWD,Type 2 CCS,18242.03,1543901.2,MG,Comet EV V1
+Minibus,Public Transport,12,12.9,85.02,185.21,42.65,178.84,149.81,Yes,RWD,Type 2 CCS,21593.97,1876129.37,Hyundai,Ioniq 5 V1
+Scooter,Two-Wheeler,2,5.76,82.76,98.97,3.33,35.14,52.34,No,RWD,Type 1,1213.98,108283.12,Kia,EV6 V1
+Bike,Delivery,1,7.39,74.59,98.82,4.16,41.83,68.36,Yes,RWD,Type 1,1453.02,119783.53,Mahindra,e-Verito V1
+Bike,Delivery,1,7.79,73.11,103.74,3.85,40.54,69.16,Yes,RWD,Type 1,1391.63,116601.89,BYD,e6 V1
+Hatchback,Urban,5,8.36,133.25,226.6,20.4,82.46,164.48,Yes,FWD,Type 2 CCS,9408.89,883468.5,Mercedes-Benz,eSprinter V1
+Scooter,Two-Wheeler,2,6.09,82.99,92.83,3.12,35.06,56.58,No,RWD,Type 1,1169.45,102240.43,Ashok Leyland,Circuit S V1
+Bike,Delivery,1,7.85,72.9,97.96,3.8,43.92,66.99,Yes,RWD,Type 1,1353.25,118436.98,JBM,EcoLife V1
+Van,Logistics,2,11.4,91.98,267.37,36.17,152.17,190.24,Yes,FWD,Type 2 CCS,16695.52,1485056.97,Euler Motors,HiLoad V1
+Scooter,Two-Wheeler,2,6.17,82.42,99.31,3.06,35.63,53.3,No,RWD,Type 1,1186.79,108497.72,Piaggio,Ape Electrik V1
+Scooter,Two-Wheeler,2,6.15,89.13,91.26,3.1,33.27,57.04,No,RWD,Type 1,1223.49,104589.71,Revolt,RV400 V1
+Van,Logistics,2,11.47,97.5,253.51,39.69,148.34,186.23,Yes,FWD,Type 2 CCS,17544.94,1442841.93,Simple Energy,One V1
+Bike,Delivery,1,7.87,74.93,99.82,4.2,43.8,70.17,Yes,RWD,Type 1,1385.96,120301.35,Yulu,Miracle GR V1
+Bike,Delivery,1,7.21,73.76,101.16,4.14,42.69,69.13,Yes,RWD,Type 1,1462.1,119155.05,Bounce,Infinity E1 V1
+Minibus,Public Transport,12,13.23,88.3,194.1,43.4,175.6,149.1,Yes,RWD,Type 2 CCS,21640.61,1792320.76,Ola Electric,S1 Air V2
+Bike,Delivery,1,7.45,72.72,97.01,4.03,42.1,67.46,Yes,RWD,Type 1,1391.58,120156.04,Ather,450X V2
+Hatchback,Urban,5,8.5,134.05,238.68,20.91,85.1,152.01,Yes,FWD,Type 2 CCS,9735.9,869859.87,Bajaj,Chetak V2
+Bike,Delivery,1,7.47,76.71,96.95,4.19,43.16,70.13,Yes,RWD,Type 1,1439.18,125655.59,TVS,iQube V2
+Van,Logistics,2,10.95,96.18,250.22,36.42,147.43,192.72,Yes,FWD,Type 2 CCS,16780.92,1494420.26,Hero Electric,Photon V2
+Minibus,Public Transport,12,13.49,85.63,186.1,41.3,183.47,154.56,Yes,RWD,Type 2 CCS,21511.94,1937990.65,Tata,Tiago EV V2
+Minibus,Public Transport,12,12.85,87.38,192.64,42.4,175.47,146.29,Yes,RWD,Type 2 CCS,22480.87,1839754.03,MG,Comet EV V2
+Bike,Delivery,1,7.25,77.39,104.43,4.19,43.84,67.5,Yes,RWD,Type 1,1422.02,120025.69,Hyundai,Ioniq 5 V2
+Minibus,Public Transport,12,12.45,85.43,193.21,44.02,178.1,155.45,Yes,RWD,Type 2 CCS,22049.9,1810914.33,Kia,EV6 V2
+Scooter,Two-Wheeler,2,6.18,86.83,92.94,3.23,34.39,53.12,No,RWD,Type 1,1186.06,101796.99,Mahindra,e-Verito V2
+Van,Logistics,2,10.77,96.73,271.77,38.35,148.27,192.86,Yes,FWD,Type 2 CCS,17335.71,1431763.51,BYD,e6 V2
+Van,Logistics,2,11.38,96.88,260.69,36.22,151.66,181.9,Yes,FWD,Type 2 CCS,18330.25,1546882.57,Mercedes-Benz,eSprinter V2
+Van,Logistics,2,11.43,96.58,270.34,37.79,144.89,192.7,Yes,FWD,Type 2 CCS,18112.4,1573602.37,Ashok Leyland,Circuit S V2
+Bike,Delivery,1,7.72,78.5,99.26,4.17,43.48,72.0,Yes,RWD,Type 1,1433.2,116968.92,JBM,EcoLife V2
+Bike,Delivery,1,7.26,74.15,99.99,4.13,43.77,73.33,Yes,RWD,Type 1,1388.26,117911.11,Euler Motors,HiLoad V2
+Hatchback,Urban,5,8.91,134.68,233.85,19.13,81.92,166.83,Yes,FWD,Type 2 CCS,9789.47,871388.45,Piaggio,Ape Electrik V2
+Bike,Delivery,1,7.49,76.31,104.57,3.84,43.32,67.85,Yes,RWD,Type 1,1359.98,119920.61,Revolt,RV400 V2
+Minibus,Public Transport,12,12.81,91.32,182.63,43.04,174.67,150.39,Yes,RWD,Type 2 CCS,21658.47,1843401.7,Simple Energy,One V2
+Scooter,Two-Wheeler,2,5.81,83.68,95.89,3.1,34.63,55.05,No,RWD,Type 1,1215.08,102588.41,Yulu,Miracle GR V2
+Bike,Delivery,1,7.23,77.92,98.99,3.82,43.41,69.61,Yes,RWD,Type 1,1347.81,120393.41,Bounce,Infinity E1 V2
+Scooter,Two-Wheeler,2,6.13,80.93,90.72,3.34,33.66,54.77,No,RWD,Type 1,1238.93,105407.52,Ola Electric,S1 Air V3
+Minibus,Public Transport,12,12.56,87.39,181.55,41.35,168.39,156.57,Yes,RWD,Type 2 CCS,20538.44,1931306.03,Ather,450X V3
+Minibus,Public Transport,12,12.57,91.4,192.09,44.09,170.58,157.33,Yes,RWD,Type 2 CCS,20591.15,1851483.06,Bajaj,Chetak V3
+Scooter,Two-Wheeler,2,5.95,88.27,92.14,3.2,33.7,55.01,No,RWD,Type 1,1171.3,100616.49,TVS,iQube V3
+Scooter,Two-Wheeler,2,6.29,89.15,96.06,3.36,35.07,55.99,No,RWD,Type 1,1178.3,104668.62,Hero Electric,Photon V3
+Van,Logistics,2,11.36,90.42,272.79,36.52,142.46,183.51,Yes,FWD,Type 2 CCS,17954.38,1479208.58,Tata,Tiago EV V3
+Van,Logistics,2,10.78,95.59,250.2,37.9,146.97,194.89,Yes,FWD,Type 2 CCS,16718.0,1506900.04,MG,Comet EV V3
+Scooter,Two-Wheeler,2,5.76,82.71,93.15,3.14,35.64,56.84,No,RWD,Type 1,1229.5,108476.77,Hyundai,Ioniq 5 V3
+Scooter,Two-Wheeler,2,6.07,88.01,96.02,3.35,35.56,52.85,No,RWD,Type 1,1196.47,105880.75,Kia,EV6 V3
+Scooter,Two-Wheeler,2,6.21,85.0,95.81,3.21,32.5,55.3,No,RWD,Type 1,1173.04,107558.93,Mahindra,e-Verito V3
+Minibus,Public Transport,12,13.58,90.63,188.78,41.06,168.75,154.94,Yes,RWD,Type 2 CCS,21239.41,1807808.51,BYD,e6 V3
+Bike,Delivery,1,7.56,71.68,97.0,4.16,40.33,66.97,Yes,RWD,Type 1,1466.3,114855.88,Mercedes-Benz,eSprinter V3
+Bike,Delivery,1,7.62,72.41,103.81,4.01,43.03,72.96,Yes,RWD,Type 1,1453.34,119924.58,Ashok Leyland,Circuit S V3
+Hatchback,Urban,5,8.09,125.64,235.04,20.68,83.66,161.76,Yes,FWD,Type 2 CCS,9476.52,894640.8,JBM,EcoLife V3
+Hatchback,Urban,5,8.37,128.41,234.48,20.36,86.42,159.54,Yes,FWD,Type 2 CCS,9708.33,912731.84,Euler Motors,HiLoad V3
+Minibus,Public Transport,12,12.88,89.65,183.11,43.55,169.5,143.75,Yes,RWD,Type 2 CCS,20767.32,1885961.2,Piaggio,Ape Electrik V3
+Minibus,Public Transport,12,12.63,90.19,189.11,40.7,174.08,145.89,Yes,RWD,Type 2 CCS,21729.99,1859636.65,Revolt,RV400 V3
+Van,Logistics,2,11.11,92.93,253.61,37.02,145.71,191.58,Yes,FWD,Type 2 CCS,17558.9,1448759.12,Simple Energy,One V3
+Hatchback,Urban,5,8.72,130.53,234.57,19.96,84.0,166.96,Yes,FWD,Type 2 CCS,10151.61,874818.36,Yulu,Miracle GR V3
+Hatchback,Urban,5,8.2,129.89,226.97,19.59,84.34,166.27,Yes,FWD,Type 2 CCS,9604.31,849550.88,Bounce,Infinity E1 V3
+Scooter,Two-Wheeler,2,6.29,85.14,90.39,3.23,32.72,53.18,No,RWD,Type 1,1239.51,104675.3,Ola Electric,S1 Air V4
+Scooter,Two-Wheeler,2,5.92,82.97,97.75,3.22,34.11,55.15,No,RWD,Type 1,1214.56,102431.52,Ather,450X V4
+Minibus,Public Transport,12,12.41,87.27,178.03,40.02,180.15,148.24,Yes,RWD,Type 2 CCS,22325.23,1968488.62,Bajaj,Chetak V4
+Scooter,Two-Wheeler,2,6.17,82.78,97.63,3.08,34.27,53.39,No,RWD,Type 1,1188.45,101458.36,TVS,iQube V4
+Minibus,Public Transport,12,12.57,90.85,189.71,41.95,168.04,150.55,Yes,RWD,Type 2 CCS,20682.77,1863374.36,Hero Electric,Photon V4
+Van,Logistics,2,10.91,90.62,252.91,36.14,147.1,192.11,Yes,FWD,Type 2 CCS,17254.76,1540722.87,Tata,Tiago EV V4
+Bike,Delivery,1,7.2,73.59,102.14,3.86,41.49,67.34,Yes,RWD,Type 1,1402.71,117265.02,MG,Comet EV V4
+Scooter,Two-Wheeler,2,5.93,84.85,98.96,3.12,33.95,57.22,No,RWD,Type 1,1257.41,101877.05,Hyundai,Ioniq 5 V4
+Hatchback,Urban,5,8.71,123.99,229.78,20.26,82.63,166.16,Yes,FWD,Type 2 CCS,9926.98,895869.83,Kia,EV6 V4
+Hatchback,Urban,5,8.61,131.56,227.51,20.43,86.74,166.62,Yes,FWD,Type 2 CCS,10164.44,850477.75,Mahindra,e-Verito V4
+Bike,Delivery,1,7.79,73.62,100.13,3.87,42.58,68.91,Yes,RWD,Type 1,1458.89,117414.17,BYD,e6 V4
+Hatchback,Urban,5,8.14,135.27,232.24,20.42,82.45,161.38,Yes,FWD,Type 2 CCS,9441.34,858081.05,Mercedes-Benz,eSprinter V4
+Scooter,Two-Wheeler,2,6.3,85.78,96.37,3.16,32.71,53.69,No,RWD,Type 1,1160.86,103499.37,Ashok Leyland,Circuit S V4
+Bike,Delivery,1,7.25,75.38,96.72,4.04,42.67,71.35,Yes,RWD,Type 1,1339.62,118126.58,JBM,EcoLife V4
+Scooter,Two-Wheeler,2,6.22,83.08,93.37,3.3,35.49,55.39,No,RWD,Type 1,1171.08,107564.54,Euler Motors,HiLoad V4
+Bike,Delivery,1,7.52,76.99,96.23,4.1,40.61,67.77,Yes,RWD,Type 1,1462.64,114060.46,Piaggio,Ape Electrik V4
+Bike,Delivery,1,7.85,73.09,99.99,4.07,42.76,69.23,Yes,RWD,Type 1,1462.66,124989.38,Revolt,RV400 V4
+Bike,Delivery,1,7.42,78.24,95.59,3.9,43.87,69.44,Yes,RWD,Type 1,1390.04,122917.89,Simple Energy,One V4
+Bike,Delivery,1,7.25,77.32,101.76,4.11,41.59,71.11,Yes,RWD,Type 1,1351.03,118560.59,Yulu,Miracle GR V4
+Van,Logistics,2,10.48,96.63,260.66,36.94,150.49,198.58,Yes,FWD,Type 2 CCS,17711.93,1519453.43,Bounce,Infinity E1 V4
+Bike,Delivery,1,7.2,75.9,102.41,4.03,42.74,71.49,Yes,RWD,Type 1,1330.69,115708.09,Ola Electric,S1 Air V5
+Scooter,Two-Wheeler,2,6.05,84.35,93.47,3.12,33.31,55.02,No,RWD,Type 1,1189.69,103803.91,Ather,450X V5
+Minibus,Public Transport,12,13.42,89.27,192.3,40.65,166.8,149.19,Yes,RWD,Type 2 CCS,21020.04,1827840.65,Bajaj,Chetak V5
+Bike,Delivery,1,7.77,78.55,95.53,3.89,41.87,72.03,Yes,RWD,Type 1,1414.37,125960.45,TVS,iQube V5
+Hatchback,Urban,5,8.12,132.2,233.45,19.13,85.5,159.23,Yes,FWD,Type 2 CCS,10264.19,860956.96,Hero Electric,Photon V5
+Minibus,Public Transport,12,13.37,90.38,186.78,41.24,170.83,150.35,Yes,RWD,Type 2 CCS,20497.08,1884545.82,Tata,Tiago EV V5
+Scooter,Two-Wheeler,2,5.81,86.4,90.7,3.28,35.5,57.31,No,RWD,Type 1,1232.33,105547.92,MG,Comet EV V5
+Bike,Delivery,1,7.22,77.02,96.49,3.99,43.01,72.97,Yes,RWD,Type 1,1424.54,122232.91,Hyundai,Ioniq 5 V5
+Van,Logistics,2,11.0,99.57,247.26,39.82,145.09,180.91,Yes,FWD,Type 2 CCS,18212.27,1448072.13,Kia,EV6 V5
+Scooter,Two-Wheeler,2,5.96,83.47,99.41,3.11,33.79,54.43,No,RWD,Type 1,1153.54,102672.17,Mahindra,e-Verito V5
+Bike,Delivery,1,7.27,76.8,101.02,3.99,40.66,67.85,Yes,RWD,Type 1,1379.32,118924.49,BYD,e6 V5
+Van,Logistics,2,11.17,98.88,257.5,39.22,138.24,191.92,Yes,FWD,Type 2 CCS,17133.05,1518652.35,Mercedes-Benz,eSprinter V5
+Scooter,Two-Wheeler,2,6.1,85.59,97.46,3.16,34.55,54.67,No,RWD,Type 1,1199.98,102234.01,Ashok Leyland,Circuit S V5
+Bike,Delivery,1,7.79,75.73,96.78,3.93,41.42,70.19,Yes,RWD,Type 1,1446.57,115358.77,JBM,EcoLife V5
+Hatchback,Urban,5,8.46,123.65,241.02,20.73,82.89,161.88,Yes,FWD,Type 2 CCS,10039.41,884094.45,Euler Motors,HiLoad V5
+Bike,Delivery,1,7.62,73.09,96.48,4.19,42.13,72.01,Yes,RWD,Type 1,1355.94,120931.67,Piaggio,Ape Electrik V5
+Bike,Delivery,1,7.81,76.67,96.97,3.9,40.61,70.28,Yes,RWD,Type 1,1431.34,117431.65,Revolt,RV400 V5
+Hatchback,Urban,5,8.35,136.23,239.08,20.44,82.83,163.66,Yes,FWD,Type 2 CCS,10255.19,837584.71,Simple Energy,One V5
+Hatchback,Urban,5,8.81,125.24,228.63,20.19,86.5,165.43,Yes,FWD,Type 2 CCS,10040.83,918167.42,Yulu,Miracle GR V5
+Bike,Delivery,1,7.44,73.94,102.6,3.82,42.1,67.83,Yes,RWD,Type 1,1446.74,122997.6,Bounce,Infinity E1 V5
